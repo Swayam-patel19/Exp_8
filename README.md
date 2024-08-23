@@ -1,8 +1,10 @@
 # Exp_8
 AIM
+
 To study and implement C++ 2D array matrices
 
 THEORY
+
 Matrices in C++ are represented as 2D arrays. They are used to store and manipulate data in a structured, tabular form.
 
 Introduction to Matrices A matrix is a collection of elements arranged in rows and columns. In C++, matrices are typically implemented using 2D arrays.
